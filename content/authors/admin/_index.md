@@ -66,8 +66,8 @@ email: 'jjgomez@unizar.es'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Welcome to my personal webpage! I am a **third-year PhD student** at the Robotics, Perception and Real Time (RoPeRT) group at the University of Zaragoza (Unizar) under the supervision of Prof. Juan D. Tardós. Previously I studied a Bachelors's degree in Computer Sciende and a Master's degree in Biomedical Engineering, both at Unizar where I started my career as a Computer Vision researcher.
+Welcome to my personal webpage! I am a **third-year PhD student** at the Robotics, Perception and Real Time (RoPeRT) group at the University of Zaragoza (Unizar) under the supervision of Prof. Juan D. Tardós. Previously I studied a Bachelors's degree in Computer Science and a Master's degree in Biomedical Engineering, both at Unizar where I started my career as a Computer Vision researcher.
 
-My work revolves how computers percieve and understand their suroundings by means of **Visual Simultaneous Localization and Mapping** techniques (V-SLAM). I am specially interested and motivated by those challenging situations that impairs the use of this technologies like **deformable V-SLAM** which has direct application to many other fields like Minimal Intrusive Surgery.
+My work revolves how computers perceive and understand their surroundings by means of **Visual Simultaneous Localization and Mapping** techniques (V-SLAM). I am especially interested and motivated by those challenging situations that impairs the use of these technologies like **deformable V-SLAM** which has direct application to many other fields like Minimal Intrusive Surgery.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
