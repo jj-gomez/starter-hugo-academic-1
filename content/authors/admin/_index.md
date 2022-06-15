@@ -70,4 +70,4 @@ Welcome to my personal webpage! I am a **third-year PhD student** at the Robotic
 
 My work revolves how computers percieve and understand their suroundings by means of **Visual Simultaneous Localization and Mapping** techniques (V-SLAM). I am specially interested and motivated by those challenging situations that impairs the use of this technologies like **deformable V-SLAM** which has direct application to many other fields like Minimal Intrusive Surgery.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
